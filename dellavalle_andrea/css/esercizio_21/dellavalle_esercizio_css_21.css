@@ -1,0 +1,17 @@
+.affonda {
+    float: none;
+    border:1px solid;
+    width: 100px;
+    height:30px;
+    background-color: red;
+    padding: 5px;
+  }
+
+  .galleggia {
+    float: left;
+    border:1px solid;
+    width: 100px;
+    height:30px;
+    background-color: green;
+    padding: 5px;
+  }
